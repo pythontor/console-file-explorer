@@ -1,0 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace скорогудаева7
+{
+    internal enum ViewState
+    {
+        List, FileView, CreateFile
+    }
+}
